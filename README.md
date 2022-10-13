@@ -1,3 +1,4 @@
 # Leetcode
 
-Solving leetcode problems.
+Solutions for leet code problems. 
+Easy, Medium and Difficult level.
