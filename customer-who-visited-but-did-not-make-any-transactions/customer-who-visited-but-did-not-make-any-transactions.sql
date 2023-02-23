@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-select customer_id, count(v.visit_id) as count_no_trans
+select customer_id, count(v.customer_id) as count_no_trans
 from Visits v
 where not exists(
     select * 
